@@ -9,6 +9,5 @@ s.source       = { :git => "https://github.com/Insfgg99x/Bagel.git", :tag => "3.
 s.ios.deployment_target = '7.0'
 s.source_files = 'HotFix/*.{h,m}'
 s.requires_arc = true
-s.dependency 'Aspects'
 end
 
